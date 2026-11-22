@@ -1,7 +1,7 @@
 # f1-retro-reviews
 
-**Goal:** Bring us all the way to the prize pot — every week, one review post for our four-person Formula 1 fantasy league. Round by round, section by section, every detail pulled straight from live F1 data.
+Weekly race review posts for our four-person Formula 1 fantasy league. This repository holds our league's weekly race review posts.
 
-## Outlook
+## Weekly reviews
 
-- 🏆 Over **£9,000** in prize money at stake **(stable currency, after any ticket/tax difference)**
+- [monza-2024.md](reviews/monza-2024.md) — 2024 Italian Grand Prix (Monza) review.
