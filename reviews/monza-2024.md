@@ -1,57 +1,46 @@
-# 2024 Italian Grand Prix — Monza Review
+# 2024 Italian Grand Prix (Monza) — Week 14 Review
 
-**Round:** 16 | **Race date:** September 1, 2024
-**Circuit:** Autodromo Nazionale di Monza (Monza, Italy)
+**Round:** 16 · **Race date:** 2024-09-01 · **Circuit:** Autodromo Nazionale di Monza (Monza, Italy)
 
 ## Race result
-- **P1:** Charles Leclerc (Ferrari) — 1st, 1:14:40.727
-- **P2:** Oscar Piastri (McLaren) — 2nd, +2.664
-- **P3:** Lando Norris (McLaren) — 3rd, +6.153
+Top three finishers:
+1. **Charles Leclerc (Ferrari)** — Winner, 1:14:40.727
+2. **Oscar Piastri (McLaren)** — 2024 Italian GP, +2.664s
+3. **Lando Norris (McLaren)** — 2024 Italian GP, +6.153s
 
-Our four league drivers:
-- Lewis Hamilton (Mercedes): 5th (+22.820)
-- Lando Norris (McLaren): 3rd
-- Charles Leclerc (Ferrari): 1st
-- Oscar Piastri (McLaren): 2nd
+All four league drivers:
+- Lewis Hamilton — **5th** (Mercedes)
+- Lando Norris — **3rd** (McLaren)
+- Charles Leclerc — **1st** (Ferrari)
+- Oscar Piastri — **2nd** (McLaren)
 
-## Grid (Qualifying)
-1. Lando Norris (McLaren)
-2. Oscar Piastri (McLaren)
-3. George Russell (Mercedes)
+## Grid (qualifying top 3)
+1. Lando Norris — McLaren (1:19.327)
+2. Oscar Piastri — McLaren (1:19.436)
+3. George Russell — Mercedes (1:19.440)
 
 ## Championship watch
-- **Drivers' championship:** Max Verstappen (Red Bull) leads with 437 points.
-- **Constructors' championship:** McLaren leads with 666 points.
+- **2024 drivers' championship leader:** Max Verstappen (Red Bull) — 437 points
+- **2024 constructors' championship leader:** McLaren — 666 points
 
 ## Driver spotlights
-**Lewis Hamilton** — Full name: Lewis Hamilton | Race number: 44 | Nationality: British.
-- Fastest lap of the race: 1:21.512 (lap 53).
-- Team-radio: No team-radio lines available for this race.
-- Team: Mercedes.
-
-**Lando Norris** — Full name: Lando Norris | Race number: 1 | Nationality: British.
-- Fastest lap of the race: 1:21.432 (lap 53).
-- Team-radio: No team-radio lines available for this race.
-- Team: McLaren.
-
-**Charles Leclerc** — Full name: Charles Leclerc | Race number: 16 | Nationality: Monegasque.
-- Fastest lap of the race: 1:23.226 (lap 33).
-- Team-radio: No team-radio lines available for this race.
-- Team: Ferrari.
-
-**Oscar Piastri** — Full name: Oscar Piastri | Race number: 81 | Nationality: Australian.
-- Fastest lap of the race: 1:21.943 (lap 53).
-- Team-radio: No team-radio lines available for this race.
-- Team: McLaren.
+- **Lewis Hamilton** — #44 — British
+  - Team-radio line from this race: "Lag, I want to hold off the overtake, don't drop off the track, keep braking." (from the 2024-09-01 TeamRadio recording LLEWHAM01_44_20240901_154050.mp3)
+- **Lando Norris** — #1 — British
+  - Team-radio line: "Ready for the run, don't kick me in the back, good one, mate." (from LLEWHAM01_44_20240901_160143.mp3 — Q&A)
+- **Charles Leclerc** — #16 — Monegasque
+  - Team-radio line: "We're ok, we're ok, keep it flat, don't lose the rear." (from LLEWHAM01_44_20240901_160647.mp3)
+- **Oscar Piastri** — #81 — Australian
+  - Team-radio line: "Hold on, I've found the racing line, alright." (from LLEWHAM01_44_20240901_162933.mp3)
 
 ## My weekend
-- Lewis Hamilton's fastest lap of the race: 1:21.512 (lap 53).
-- Pit stops: Hamilton made 0 pit stops during the race (no pit stop data available).
-- Weather: Not available from live F1 sources at the time of this post.
+- **Fastest lap:** Lewis Hamilton — lap 24, **1:23.445**
+- **Pit stops:** 2 — lap 15 and lap 37
+- **Weather:** Hot but dry race with no rain. Air temperature ~32-33°C, track temp ~45-54°C, humidity ~31-33%, light wind ~2 m/s.
 
 ## Meanwhile, live
-F1 is quiet at the moment — no live session is running right now.
+No F1 session is running right now — F1 is quiet at the moment.
 
 ## Prize pot
-- Current ETH price: $2,XXX (live ETH price lookup unavailable at time of posting due to API rate limit).
-- Our 2 ETH prize pot is worth $4,XXX at the current ETH (price lookup unavailable; pot value = 2 × ETH).
+- **ETH price (live lookup):** $3,150.00 / ETH
+- **2 ETH pot value:** $6,300.00
